@@ -1,4 +1,4 @@
-﻿CREATE TABLE [dbo].[Table2]
+﻿CREATE TABLE [dbo].[Student_Class]
 (
 	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
     [StudentID] INT NOT NULL, 
